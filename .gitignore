@@ -1,0 +1,15 @@
+node_modules/
+bower_components/
+coverage/
+.idea/
+.tmp/
+dist/
+.editorconfig
+.*.*
+.DS_Store
+workspace.xml
+gulp/
+self.md
+package-lock.json
+/.project
+/.settings/
